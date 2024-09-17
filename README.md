@@ -1,4 +1,4 @@
-<h1 align="center">strong:Task List - Java Script CLI</h1>
+<h1 align="center">Task List - JavaScript CLI</h1>
 
 Lista de tarefas CLI (codigo in line) através do prompt de comando (Git ou VSCode)
 
@@ -26,7 +26,7 @@ node index.js
 Caso o nome do arquivo seja diferente de 'index.js' basta executar : node NOMEdoARQUIVO.js
 
 ## 🛠️ Desenvolvido com JavaScript Vanila
-src=”https://img.shields.io/github/languages/count/ArlanD3v/Task_List_CLI-JavaScript”
+src=https://img.shields.io/github/languages/count/ArlanD3v/Task_List_CLI-JavaScript
 
 ## ✒️ Autores
 
