@@ -5,11 +5,11 @@ Lista de tarefas CLI (codigo in line) através do prompt de comando (Git ou VSCo
 ## :computer: Funcionalidades
 
 O LTC.js (Lista de Tarefas CLI JS) possui 5 funcionabilidades diferentes, que são : 
-* **Cadastrar novas metas
-* **Marcar metas como concluidas
-* **Visualizar metas concluidas
-* **Visualizar metas pendentes
-* **Excluir metas
+* Cadastrar novas metas
+* Marcar metas como concluidas
+* Visualizar metas concluidas
+* Visualizar metas pendentes
+* Excluir metas
 
 ### 🔧 Instalação e Inicialização
 Primeiramente será necessário realizar a instalação do pacote Inquirer, para utilização do terminal JS
