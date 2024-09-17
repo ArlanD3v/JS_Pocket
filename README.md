@@ -26,7 +26,7 @@ node index.js
 Caso o nome do arquivo seja diferente de 'index.js' basta executar : node NOMEdoARQUIVO.js
 
 ## 🛠️ Desenvolvido com JavaScript Vanila
-[<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">]
+<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 ## ✒️ Autores
 
 * **Arlan** - *Desenvolvimento* - [ArlanD3v](https://github.com/ArlanD3v/)
