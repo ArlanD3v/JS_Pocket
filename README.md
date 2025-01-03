@@ -21,7 +21,7 @@ npm i inquirer
 Após instalado, para executar digite no terminal:
 
 ```
-node index.js
+npm run dev
 ```
 Caso o nome do arquivo seja diferente de 'index.js' basta executar : node NOMEdoARQUIVO.js
 
